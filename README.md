@@ -1,2 +1,3 @@
 # KevinAlvlayIntro
-This is Kevin Alvlay's Introduction page.
+Greetings!
+This is Kevin Alvlay, aka Stringrey.
